@@ -1,4 +1,4 @@
-@import './global.scss';
+@import './_global.scss';
 
 .container {
     background-color: #ac8968;
@@ -8,14 +8,6 @@
     align-items: center;
     min-height: 100vh;
     padding-block: var(--double);
-    
-    .heading {
-
-        h1 {
-            color: #3e362f;
-            font-size: var(--double);
-        }
-    }
 
     .question {
         width: 90%;

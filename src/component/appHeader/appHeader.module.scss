@@ -1,0 +1,31 @@
+.container {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+
+    h1:first-child {
+            color: white;
+            font-size: var(--double);
+            font-family: 'anurati';
+    }
+
+    h1:nth-child(2) {
+        color: #3e362f;
+        font-size: var(--double);
+    }
+
+    button {
+        padding: var(--half);
+        border: none;
+        outline: none;
+        border-radius: var(--full);
+        cursor: pointer;
+
+        a {
+            color: black;
+            text-decoration: none;
+        }
+    }
+}

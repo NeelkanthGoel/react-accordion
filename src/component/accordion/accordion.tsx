@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import style from './accordion.module.scss';
-import { accordionPropType, userDataType } from '../types/types';
+import { accordionPropType, userDataType } from '../../types/types';
 
 const Accordion = ({data}:accordionPropType) => {
 
