@@ -1,0 +1,35 @@
+.accordion_container {
+    margin-block-start: var(--half);
+    padding: var(--full-half);
+    background-color: #5a55513d;
+    border-radius: var(--half);
+
+    .accordion {
+        margin-block-end: var(--full);
+    .ques {
+        display: flex;
+        justify-content: space-between;
+        background-color: #3e362f;
+        padding: var(--half);
+        border-radius: var(--half);
+        cursor: pointer;
+
+        span {
+            color: white;
+            font-size: var(--full-two);
+        }
+    }
+
+    .ans {
+        display: flex;
+        justify-content: space-between;
+        background-color: white;
+        padding: var(--half);
+        border-radius: var(--half);
+
+        span {
+            color: black;
+        }
+    }
+}
+}
