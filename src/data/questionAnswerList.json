@@ -1,0 +1,23 @@
+{
+    "data": [
+    { "ques": "What is the capital of India?", "ans": "Delhi" },
+    { "ques": "What is the tallest mountain in the world?", "ans": "Mount Everest" },
+    { "ques": "What is the currency of India?", "ans": "Indian Rupee" },
+    { "ques": "What is the national language of India?", "ans": "Hindi" },
+    { "ques": "What is the largest state in India by area?", "ans": "Rajasthan" },
+    { "ques": "What is the most populous city in India?", "ans": "Mumbai" },
+    { "ques": "What is a famous landmark in Delhi?", "ans": "Taj Mahal" },
+    { "ques": "What is a popular dish in India?", "ans": "Butter Chicken" },
+    { "ques": "What is the main religion in India?", "ans": " Hinduism" },
+    { "ques": "What is a major river in India?", "ans": "Ganges" },
+    { "ques": "When is India's Independence Day?", "ans": "15th August" },
+    { "ques": "What is the national animal of India?", "ans": "Royal Bengal Tiger" },
+    { "ques": "What is the national bird of India?", "ans": "Indian Peacock" },
+    { "ques": "What is a popular sport in India?", "ans": "Cricket" },
+    { "ques": "What is a famous festival in India?", "ans": "Diwali" },
+    { "ques": "What is a major mountain range in India?", "ans": "Himalayas" },
+    { "ques": "What is a famous historical site in India?", "ans": "Agra Fort" },
+    { "ques": "What is a UNESCO World Heritage Site in India?", "ans": "Qutub Minar" },
+    { "ques": "What is the capital of Delhi?", "ans": "New Delhi" }
+    ]
+}
