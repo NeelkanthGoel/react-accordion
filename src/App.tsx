@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import style from './App.module.scss';
-import Accordion from './component/accordion';
+import AppHeader from './component/appHeader/appHeader';
+import Accordion from './component/accordion/accordion';
 import {userDataType} from './types/types';
 
 
@@ -22,11 +23,7 @@ function App() {
 
   return (
     <div className={style.container}>
-        <header className={style.heading}>
-            <h1>
-              Accordion
-            </h1>
-        </header>
+        <AppHeader heading="Accordion"/>
         <section className={style.question}>
           <h2>
             <span>Question:</span>
