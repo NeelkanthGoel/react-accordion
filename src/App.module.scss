@@ -1,7 +1,7 @@
 @import './_global.scss';
 
 .container {
-    background-color: #ac8968;
+    background-color: white;
     display: flex;
     flex-direction: column;
     gap: var(--double);
@@ -17,8 +17,9 @@
         h2 {
 
             span {
-                color: white;
+                color: black;
                 font-size: var(--full-half);
+                font-weight: normal;
 
                 a:hover {
                     color: purple;
@@ -28,6 +29,7 @@
             span:first-child {
                 color: black;
                 margin-inline-end: var(--full);
+                font-weight: bold;
             }
         }
     }
