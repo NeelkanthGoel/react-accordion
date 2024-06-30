@@ -27,8 +27,9 @@ function App() {
         <section className={style.question}>
           <h2>
             <span>Question:</span>
-            <span>You need to implement the accordion as shown below. You can fetch the data for the accordion using the link:
-              <a target='_blank' href=' https://raw.githubusercontent.com/NeelkanthGoel/react-accordion/demo/src/data/questionAnswerList.json'> https://raw.githubusercontent.com/NeelkanthGoel/react-accordion/demo/src/data/questionAnswerList.json</a>
+            <span>
+            This task requires the implementation of an accordion component. Data for the accordion, containing questions and answers, can be retrieved from the following JSON file: <a target='_blank' href=' https://raw.githubusercontent.com/NeelkanthGoel/react-accordion/demo/src/data/questionAnswerList.json'> https://raw.githubusercontent.com/NeelkanthGoel/react-accordion/demo/src/data/questionAnswerList.json</a>. 
+            Important Note: You should achieve this functionality without relying on any external libraries for the accordion itself or for styling (CSS).  Write the entire codebase from scratch using React concepts.
             </span>
           </h2>
         </section>
